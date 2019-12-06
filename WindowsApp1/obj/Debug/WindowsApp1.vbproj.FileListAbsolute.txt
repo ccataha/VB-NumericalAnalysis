@@ -1,0 +1,115 @@
+C:\Users\Бездельника\AppData\Local\Temporary Projects\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\Бездельника\AppData\Local\Temporary Projects\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\Бездельника\AppData\Local\Temporary Projects\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\Бездельника\AppData\Local\Temporary Projects\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\Бездельника\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+C:\Users\Бездельника\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\Бездельника\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+C:\Users\Бездельника\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Бездельника\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.Cache
+C:\Users\Бездельника\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Бездельника\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\Бездельника\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\Бездельника\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\Бездельника\Desktop\курсач ВМ\Код Решения\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\Бездельника\Desktop\курсач ВМ\Код Решения\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\Бездельника\Desktop\курсач ВМ\Код Решения\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\Бездельника\Desktop\курсач ВМ\Код Решения\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\Бездельника\Desktop\курсач ВМ\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+C:\Users\Бездельника\Desktop\курсач ВМ\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\Бездельника\Desktop\курсач ВМ\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+C:\Users\Бездельника\Desktop\курсач ВМ\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form3.resources
+C:\Users\Бездельника\Desktop\курсач ВМ\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form4.resources
+C:\Users\Бездельника\Desktop\курсач ВМ\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form5.resources
+C:\Users\Бездельника\Desktop\курсач ВМ\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Бездельника\Desktop\курсач ВМ\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.Cache
+C:\Users\Бездельника\Desktop\курсач ВМ\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Бездельника\Desktop\курсач ВМ\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\Бездельника\Desktop\курсач ВМ\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\Бездельника\Desktop\курсач ВМ\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\Бездельника\Desktop\курсач ВМ\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form6.resources
+E:\КУРСАЧ ВМ\Код Решения\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+E:\КУРСАЧ ВМ\Код Решения\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+E:\КУРСАЧ ВМ\Код Решения\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+E:\КУРСАЧ ВМ\Код Решения\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+E:\КУРСАЧ ВМ\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+E:\КУРСАЧ ВМ\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+E:\КУРСАЧ ВМ\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+E:\КУРСАЧ ВМ\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form3.resources
+E:\КУРСАЧ ВМ\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form4.resources
+E:\КУРСАЧ ВМ\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form5.resources
+E:\КУРСАЧ ВМ\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form6.resources
+E:\КУРСАЧ ВМ\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+E:\КУРСАЧ ВМ\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.Cache
+E:\КУРСАЧ ВМ\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+E:\КУРСАЧ ВМ\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+E:\КУРСАЧ ВМ\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+E:\КУРСАЧ ВМ\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+E:\КУРСАЧ ВМ — копия\Код Решения\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+E:\КУРСАЧ ВМ — копия\Код Решения\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+E:\КУРСАЧ ВМ — копия\Код Решения\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+E:\КУРСАЧ ВМ — копия\Код Решения\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+E:\КУРСАЧ ВМ — копия\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+E:\КУРСАЧ ВМ — копия\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+E:\КУРСАЧ ВМ — копия\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+E:\КУРСАЧ ВМ — копия\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form3.resources
+E:\КУРСАЧ ВМ — копия\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form4.resources
+E:\КУРСАЧ ВМ — копия\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form5.resources
+E:\КУРСАЧ ВМ — копия\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form6.resources
+E:\КУРСАЧ ВМ — копия\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+E:\КУРСАЧ ВМ — копия\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.Cache
+E:\КУРСАЧ ВМ — копия\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+E:\КУРСАЧ ВМ — копия\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+E:\КУРСАЧ ВМ — копия\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+E:\КУРСАЧ ВМ — копия\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+E:\КУРСАЧ ВМ  КОНЕЦ\Код Решения\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+E:\КУРСАЧ ВМ  КОНЕЦ\Код Решения\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+E:\КУРСАЧ ВМ  КОНЕЦ\Код Решения\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+E:\КУРСАЧ ВМ  КОНЕЦ\Код Решения\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+E:\КУРСАЧ ВМ  КОНЕЦ\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+E:\КУРСАЧ ВМ  КОНЕЦ\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+E:\КУРСАЧ ВМ  КОНЕЦ\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+E:\КУРСАЧ ВМ  КОНЕЦ\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form3.resources
+E:\КУРСАЧ ВМ  КОНЕЦ\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form4.resources
+E:\КУРСАЧ ВМ  КОНЕЦ\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form5.resources
+E:\КУРСАЧ ВМ  КОНЕЦ\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form6.resources
+E:\КУРСАЧ ВМ  КОНЕЦ\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+E:\КУРСАЧ ВМ  КОНЕЦ\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.Cache
+E:\КУРСАЧ ВМ  КОНЕЦ\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+E:\КУРСАЧ ВМ  КОНЕЦ\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+E:\КУРСАЧ ВМ  КОНЕЦ\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+E:\КУРСАЧ ВМ  КОНЕЦ\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+D:\КУРСАЧ ВМ  КОНЕЦ — копия\Код Решения\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+D:\КУРСАЧ ВМ  КОНЕЦ — копия\Код Решения\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+D:\КУРСАЧ ВМ  КОНЕЦ — копия\Код Решения\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+D:\КУРСАЧ ВМ  КОНЕЦ — копия\Код Решения\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+D:\КУРСАЧ ВМ  КОНЕЦ — копия\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+D:\КУРСАЧ ВМ  КОНЕЦ — копия\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+D:\КУРСАЧ ВМ  КОНЕЦ — копия\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+D:\КУРСАЧ ВМ  КОНЕЦ — копия\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form3.resources
+D:\КУРСАЧ ВМ  КОНЕЦ — копия\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form4.resources
+D:\КУРСАЧ ВМ  КОНЕЦ — копия\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form5.resources
+D:\КУРСАЧ ВМ  КОНЕЦ — копия\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form6.resources
+D:\КУРСАЧ ВМ  КОНЕЦ — копия\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+D:\КУРСАЧ ВМ  КОНЕЦ — копия\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+D:\КУРСАЧ ВМ  КОНЕЦ — копия\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+D:\КУРСАЧ ВМ  КОНЕЦ — копия\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+D:\КУРСАЧ ВМ  КОНЕЦ — копия\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+D:\КУРСАЧ ВМ  КОНЕЦ — копия\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+E:\КУРСАЧ ВМ  КОНЕЦ — копия\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+E:\КУРСАЧ ВМ  КОНЕЦ — копия\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+E:\КУРСАЧ ВМ  КОНЕЦ — копия\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+E:\КУРСАЧ ВМ  КОНЕЦ — копия\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form3.resources
+E:\КУРСАЧ ВМ  КОНЕЦ — копия\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form4.resources
+E:\КУРСАЧ ВМ  КОНЕЦ — копия\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form5.resources
+E:\КУРСАЧ ВМ  КОНЕЦ — копия\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form6.resources
+E:\КУРСАЧ ВМ  КОНЕЦ — копия\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+E:\КУРСАЧ ВМ  КОНЕЦ — копия\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.Cache
+E:\КУРСАЧ ВМ  КОНЕЦ — копия\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+E:\КУРСАЧ ВМ  КОНЕЦ — копия\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+E:\КУРСАЧ ВМ  КОНЕЦ — копия\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+E:\КУРСАЧ ВМ  КОНЕЦ — копия\Код Решения\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+E:\КУРСАЧ ВМ  КОНЕЦ — копия\Код Решения\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+E:\КУРСАЧ ВМ  КОНЕЦ — копия\Код Решения\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+E:\КУРСАЧ ВМ  КОНЕЦ — копия\Код Решения\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+E:\КУРСАЧ ВМ  КОНЕЦ — копия\Код Решения\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
